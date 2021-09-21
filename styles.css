@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    font-size: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: mediumseagreen;
+}
+
+.center {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table {
+    width: 50%;
+    border-color: darkgrey;
+
+}
+
+th,
+td {
+    font-size: 1.1rem;
+    background-color: white;
+    padding: 5px;
+}
+
+th {
+    color: darkgreen;
+    background-color: seashell;
+
+}
+
+td {
+    text-align: left;
+}
+
+.monospace {
+    font-family: monospace;
+    background-color: aliceblue;
+    font-size: 0.9rem;
+}
